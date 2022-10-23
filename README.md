@@ -20,8 +20,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikerr21&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikerr21&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -29,9 +29,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.aziz-deghais.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mikerr21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:deghaisa@hu-berlin.de"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.aziz-deghais.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aziz-deghais.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mikerr21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aziz%20Deghais-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:deghaisa@hu-berlin.de"><img alt="Email" src="https://img.shields.io/badge/Email-deghaisa@hu-berlin.deblue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
