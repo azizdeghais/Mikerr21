@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Always exploring new mdern technologies.
+- 🤔 &nbsp; Always exploring new modern technologies.
 - 🎓 &nbsp; Studying Computer Science at Universität zu Berlin
 - 🌱 &nbsp; Besides frontend fields, interested in learning more about backend sides.
 
@@ -16,6 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 <br/>
 
