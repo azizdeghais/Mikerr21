@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science At University Of Humboldt Berlin
-- 🌱 &nbsp; Interested in learning more about Back-End Development.
+- 🤔 &nbsp; Always exploring new mdern technologies.
+- 🎓 &nbsp; Studying Computer Science at Universität zu Berlin
+- 🌱 &nbsp; Besides frontend fields, interested in learning more about backend sides.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.aziz-deghais.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aziz-deghais.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.azizdeg.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.azizdegh.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mikerr21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aziz%20Deghais-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:deghaisa@hu-berlin.de"><img alt="Email" src="https://img.shields.io/badge/Email-deghaisa@hu-berlin.deblue?style=flat-square&logo=gmail"></a>
 </p>
