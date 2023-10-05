@@ -2,11 +2,6 @@
 
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Always exploring new modern technologies.
-- 🎓 &nbsp; Studying Computer Science at Universität zu Berlin
-- 🌱 &nbsp; Besides frontend fields, interested in learning more about backend sides.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
