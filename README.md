@@ -3,8 +3,8 @@ Software Engineer
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [deghaisa@hu-berlin.de](mailto:deghaisa@hu-berlin.de)
-* 🚀  I'm currently working on [Next.js Open Source](http://github.com/vercel/next.js)
-* 🧠  I'm learning Next.js
+* 🚀  I'm contributing to [Open Source Projects](http://github.com/vercel/next.js)
+* 🧠  I'm learning Next.js & some devops tools
 
 ### Skills
 
